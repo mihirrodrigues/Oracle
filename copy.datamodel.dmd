@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="copy.datamodel" id="827A0C59-C946-FADC-6C3E-3294238A9743" version="3.5">
+<createdBy>Ilangko</createdBy>
+<createdTime>2019-07-10 17:57:07 UTC</createdTime>
+<ownerDesignName>FortisDataModel</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>827A0C59-C946-FADC-6C3E-3294238A9743</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="B8D8704C-A072-125E-05CE-C9A442718220">
+<designStoragePath>C:\PODS-Lite-SQLServer-v1-1</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
